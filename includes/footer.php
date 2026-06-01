@@ -16,14 +16,12 @@
             </div>
 
             <div>
-                <h3 class="footer-title">Menu Hệ Thống</h3>
+                <h3 class="footer-title">Chuyển hướng</h3>
                 <ul class="footer-links">
-                    <li class="footer-link-item"><a href="#hero">Trang chủ</a></li>
-                    <li class="footer-link-item"><a href="#about">Giới thiệu</a></li>
-                    <li class="footer-link-item"><a href="#activities">Lĩnh vực hoạt động</a></li>
-                    <li class="footer-link-item"><a href="#strengths">Thế mạnh cạnh tranh</a></li>
-                    <li class="footer-link-item"><a href="#gallery">Hình ảnh thực tế</a></li>
-                    <li class="footer-link-item"><a href="#contact">Liên hệ hệ thống</a></li>
+                    <li class="footer-link-item"><a href="index.php">Trang chủ</a></li>
+                    <li class="footer-link-item"><a href="about.php">Giới thiệu</a></li>
+                    <li class="footer-link-item"><a href="activities.php">Lĩnh vực hoạt động</a></li>
+                    <li class="footer-link-item"><a href="contact.php">Liên hệ hệ thống</a></li>
                 </ul>
             </div>
 
