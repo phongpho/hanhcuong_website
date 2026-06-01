@@ -56,7 +56,7 @@
                 <!--thông tin kết nối -->
                 <div class="contact-details-sidebar" data-aos="fade-right">
                     <div class="company-meta-box">
-                        <h2 class="sidebar-grid-title">Văn phòng điều hành</h2>
+                        <h2 class="sidebar-grid-title">THÔNG TIN LIÊN HỆ</h2>
                         <p class="sidebar-grid-desc">Quý đối tác, doanh nghiệp có nhu cầu làm việc trực tiếp vui lòng kết nối qua các cổng thông tin sau:</p>
                         
                         <div class="meta-info-list">
@@ -79,7 +79,7 @@
                             <div class="meta-info-item">
                                 <div class="meta-icon"><i class="fa-solid fa-phone-volume"></i></div>
                                 <div class="meta-text">
-                                    <h4>Phòng kinh doanh & Hợp tác</h4>
+                                    <h4>Số điện thoại</h4>
                                     <p><a href="tel:0939660004">0939 660 004</a></p>
                                 </div>
                             </div>
