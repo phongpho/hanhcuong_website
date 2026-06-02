@@ -46,8 +46,8 @@
                     và quốc tế.
                 </p>
                 <div class="hero-actions" data-aos="fade-up" data-aos-delay="300">
-                    <a href="#products" class="btn btn-primary">Khám phá sản phẩm</a>
-                    <a href="#contact" class="btn btn-primary">Liên hệ hợp tác</a>
+                    <a href="#" class="btn btn-primary">Khám phá sản phẩm</a>
+                    <a href="contact.php" class="btn btn-primary">Liên hệ hợp tác</a>
                 </div>
             </div>
         </div>
@@ -171,7 +171,7 @@
                             trình chăm sóc hiện đại và kiểm soát dinh dưỡng nghiêm ngặt, hướng tới cung ứng nguồn thịt
                             sạch chất lượng cao cho thị trường.
                         </p>
-                        <a href="#contact" class="activity-link">Liên hệ hợp tác <i
+                        <a href="contact.php" class="activity-link">Liên hệ hợp tác <i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -191,7 +191,7 @@
                             học. Chủ động nguồn con giống khỏe mạnh, tăng trưởng tốt để tối ưu chuỗi cung ứng thực phẩm
                             bền vững.
                         </p>
-                        <a href="#contact" class="activity-link">Liên hệ hợp tác <i
+                        <a href="contact.php" class="activity-link">Liên hệ hợp tác <i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -211,7 +211,7 @@
                             Giang. Quy trình nuôi tuân thủ nghiêm ngặt các chứng nhận an toàn, phục vụ tối đa nhu cầu
                             nội địa và tiêu chuẩn xuất khẩu quốc tế.
                         </p>
-                        <a href="#contact" class="activity-link">Liên hệ hợp tác <i
+                        <a href="contact.php" class="activity-link">Liên hệ hợp tác <i
                                 class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
